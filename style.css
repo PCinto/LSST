@@ -1,0 +1,51 @@
+/* CSS styles for the complaint management system website */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: rgb(23, 23, 23);
+  color: #fff;
+  padding: 10px;
+}
+
+nav {
+  background-color: #ddd;
+  padding: 10px;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+section {
+  padding: 10px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 2px;
+  text-align: center;
+  align-items:baseline;
+}
+
+  
